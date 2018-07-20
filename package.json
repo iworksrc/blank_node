@@ -8,5 +8,8 @@
     "start": "node ./src/index.js"
   },
   "author": "Roman Kiselev",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^11.11.0"
+  }
 }
